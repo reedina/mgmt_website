@@ -1,0 +1,163 @@
+html, body {
+
+    font-family: 'Lato', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 1.7;
+    background-color: #eeef;
+
+}
+
+h1, h2, h3, h4 {
+    font-family: 'Rozha One', serif;
+}
+.intro-block {
+ /* background: url("../images/azure.jpg") repeat; */
+ background-color: #ecfdec  ;  /* #ecfdec  eafdea #e8fde8 - light green #eef7f9 - light blue*/
+ padding: 100px 15px 60px;
+color: #4F4795;
+font-weight: 100;
+}
+
+
+.text-muted {
+    color: #4F4795;
+    font-weight: 100;
+}
+
+.tpad {
+padding-top: 20px;
+padding-right: 50px;
+
+}
+.marketing {
+    background-color: #4F4795;
+    color: #ecfdec;
+    padding-bottom: 15px;
+}
+
+hr {
+    border-top: 1px solid #c9c9c9;
+}
+
+
+.info {
+    /* background: #ffa753 url(../images/skyline.png) repeat-x bottom;*/
+    background-color: #ecfdec;
+    padding: 80px 0;
+}
+.divider-metrics {
+
+    background-color: 4F4795;
+  
+
+}
+hr.style5 {
+	background-color: #fff;
+	border-top: 2px dashed #8c8b8b;
+}
+
+.info small {
+    color: #eeefe9;
+}
+
+.info a {
+    color: #fff;
+}
+
+.info a:hover {
+    color: #333;
+}
+
+.tab-pane {
+  padding: 40px 10px 0 10px;   
+}
+
+.ftr {
+    /* background: url(../images/shattered.png) repeat;*/
+    background-color: #A02817;
+}
+
+.ftr address, .ftr a, .ftr p {
+    color: #fff;
+}
+
+.ftr_space {
+    padding: 10px 10px;
+   
+}
+
+.ftr_space_logo {
+    font-family: 'Indie Flower', cursive;
+    font-size: 2em;
+}
+/* font-family: 'Lato', sans-serif; */
+.navbar-custom {
+	background-color: #A02817;
+    color:#ffffff;
+  	border-radius:0;
+}
+  
+.navbar-custom .navbar-nav > li > a {
+  	color:#fff;
+  	padding-left:20px;
+  	padding-right:20px;
+}
+.navbar-custom .navbar-nav > .active > a, .navbar-nav > .active > a:hover, .navbar-nav > .active > a:focus {
+  background-color: #FFA300;
+}
+
+.navbar-custom .navbar-nav > li > a:hover, .nav > li > a:focus, .navbar-custom .navbar-nav .open>a  { 
+  background-color: #FFA300;
+}
+
+     
+/* dropdown */
+.navbar-custom .navbar-nav .dropdown-menu  { 
+  background-color:#FFA300 ;
+}
+.navbar-custom .navbar-nav .dropdown-menu>li>a  { 
+  color: #fff;
+}
+.navbar-custom .navbar-nav .dropdown-menu>li>a:hover,.navbar-custom .navbar-nav .dropdown-menu>li>a:focus  { 
+  color: #FFA300;
+}
+.dropdown-header {
+   color: #4E4795;
+   font-weight: 700;
+}
+.navbar-custom .navbar-brand {
+  	color:#eeeeee;
+}
+.navbar-custom .navbar-toggle {
+  	background-color:#eeeeee;
+}
+.navbar-custom .icon-bar {
+  	background-color: #FFA300;
+}
+
+.arrow-g {
+    font-size: 0.5em;
+}
+
+.plain-list {
+    list-style: none;
+}
+
+.cp-heading {
+    font-family: 'Anton', sans-serif;
+    font-size: 4em;
+    
+}
+ 
+.cp-paragraph {
+    font-size: 1.2em;
+}
+h1.cp-heading {
+   text-align: center;
+}
+
+.metrics-header {
+    font-size: 2em;font-family: 'Anton', sans-serif;
+    padding-bottom: 20px;
+}
